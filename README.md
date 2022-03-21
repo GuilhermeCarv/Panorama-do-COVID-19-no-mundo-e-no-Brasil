@@ -10,7 +10,7 @@ Projeto de análise de dados abertos acerca do Covid-19 proposto no curso Data S
 
 O intuito do projeto, além da análise dos dados em si, é exercitar de forma prática a utilização de bibliotecas de visualização disponíveis no Python.
 
-[Link para o projeto completo](https://github.com/GuilhermeCarv/Projeto-AirBnB-Tokyo/blob/main/Analisando_os_Dados_do_Airbnb.ipynb)
+[Link para o projeto completo](https://github.com/GuilhermeCarv/Panorama-do-COVID-19-no-mundo-e-no-Brasil/blob/main/Panorama_do_COVID_19_no_mundo_e_no_Brasil.ipynb)
 
 **Links para me acharem:**
 * [Artigo meu desse projeto no Medium](https://medium.com/@guilherme_carvalho)
