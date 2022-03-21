@@ -5,7 +5,7 @@
   <img src="https://cdn-images-1.medium.com/max/1000/0*x8K0zm0NEVatnvyo" alt="capa readme"height=400px >
 </p>
 
-## AirBnB
+## Covid-19 no mundo e no Brasil
 Projeto de análise de dados abertos acerca do Covid-19 proposto no curso Data Science Na Prática.
 
 O intuito do projeto, além da análise dos dados em si, é exercitar de forma prática a utilização de bibliotecas de visualização disponíveis no Python.
