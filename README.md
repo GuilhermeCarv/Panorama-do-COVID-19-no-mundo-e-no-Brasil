@@ -13,6 +13,6 @@ O intuito do projeto, além da análise dos dados em si, é exercitar de forma p
 [Link para o projeto completo](https://github.com/GuilhermeCarv/Panorama-do-COVID-19-no-mundo-e-no-Brasil/blob/main/Panorama_do_COVID_19_no_mundo_e_no_Brasil.ipynb)
 
 **Links para me acharem:**
-* [Artigo meu desse projeto no Medium](https://medium.com/@guilherme_carvalho)
+* [Artigo meu desse projeto no Medium](https://medium.com/@guilherme_carvalho/panorama-do-covid-19-no-mundo-e-no-brasil-816a2f3d61fa)
 * [LinkedIn](https://www.linkedin.com/in/guilherme-carvalho08/)
 
